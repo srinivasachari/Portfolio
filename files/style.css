@@ -1207,16 +1207,16 @@ body {
         left: 25%;
     }
     .bar .info .addhtml::before{
-        content: "90%";
+        content: "60%";
     }
     .bar .info .addcss::before{
-        content: "80%";
+        content: "65%";
     }
     .bar .info .addpy::before{
-        content: "75%";
+        content: "60%";
     }
     .bar .info .addjava::before{
-        content: "50%";
+        content: "80%";
     }
     
  
